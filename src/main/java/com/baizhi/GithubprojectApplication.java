@@ -10,7 +10,7 @@ public class GithubprojectApplication {
 
         SpringApplication.run(GithubprojectApplication.class, args);
         System.out.println("0000000");
-        System.out.println("123456");
+        System.out.println("222222");
     }
 
 }
