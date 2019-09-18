@@ -12,6 +12,8 @@ public class GithubprojectApplication {
         System.out.println("0000000");
         System.out.println("222222");
         System.out.println("tss");
+        System.out.println("jl");
+        System.out.println("why");
     }
 
 }
