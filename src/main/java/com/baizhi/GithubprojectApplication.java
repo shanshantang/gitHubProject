@@ -16,8 +16,6 @@ public class GithubprojectApplication {
         System.out.println("why");
         System.out.println("GZY");
         System.out.println("aaaaa");
-
-        System.out.println("bbbbbbb");
     }
 
 }
